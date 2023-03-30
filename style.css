@@ -80,7 +80,7 @@ img {
 .hero {
     grid-area: hero; 
     min-height: 400px; 
-    background-image: url('gambar/code2.webp');
+    background-image: url('gambar/Code2.webp');
     background-size: cover;
     padding: 3rem;
     display: flex;
